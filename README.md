@@ -22,10 +22,11 @@ When fire is detected, the system highlights it and sends an immediate Telegram 
 Fire_Detection/
 │
 ├── IMAGE_DONE.py              # Detect fire in a single image
-├── VIDEO_DONE.py              # Detect fire in a video file
-├── REALTIME_DONE.py           # Detect fire from webcam or CCTV feed
+├── VIDEO_DONEE.py             # Detect fire in a video file
+├── Real_Time_DONE.py           # Detect fire from webcam or CCTV feed
 ├── best.pt                    # Trained YOLOv8 model weights
 ├── requirements.txt           # Required libraries
+├── dataset.zip                # Dataset used for the model
 └── README.md                  # Project documentation (this file)
 ```
 
