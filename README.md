@@ -108,5 +108,6 @@ Developed by:
 * [Yasmeen](https://github.com/yasmeenn88)
 * [Osama Kemekem](https://github.com/osamakemekem)
 * [NufalXBaalash](https://github.com/NufalXBaalash)
+* [Magda Haytham](https://github.com/magdahaytham)
 
 For questions or collaboration, feel free to reach out on GitHub.
